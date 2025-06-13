@@ -21,8 +21,8 @@ This repository contains a personal portfolio website showcasing projects, skill
 
 ## Contact
 For more information, visit:
-[Swapnil’s LinkedIn](https://www.linkedin.com/in/sumedha-kar-870235280/)  
-[Swapnil’s GitHub](https://github.com/SumedhaKar)
+[Sumedha’s LinkedIn](https://www.linkedin.com/in/sumedha-kar-870235280/)  
+[Sumedha’s GitHub](https://github.com/SumedhaKar)
 
 ## License
 No specific license is included in this project. Feel free to customize and adapt the code as needed.
