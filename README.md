@@ -1,5 +1,5 @@
-# Swapnil Dey - Personal Portfolio
-# https://swapnil-portfolio-two.vercel.app/
+# Sumedha Kar - Personal Portfolio
+# 
 
 ## Overview
 This repository contains a personal portfolio website showcasing projects, skills, and contact information. The primary entry point is the `index.html` file, which demonstrates web design, responsive layouts, and personal branding.
@@ -21,8 +21,8 @@ This repository contains a personal portfolio website showcasing projects, skill
 
 ## Contact
 For more information, visit:
-[Swapnil’s LinkedIn](https://www.linkedin.com/in/swapnil-dey-173249265/)  
-[Swapnil’s GitHub](https://github.com/SwapnilDey-git)
+[Swapnil’s LinkedIn](https://www.linkedin.com/in/sumedha-kar-870235280/)  
+[Swapnil’s GitHub](https://github.com/SumedhaKar)
 
 ## License
 No specific license is included in this project. Feel free to customize and adapt the code as needed.
